@@ -10,3 +10,5 @@
 - go to the 'tests' folder.
 - execute the command 'npm install'.
 - execute the command 'jest'.
+
+How to input data into process numbers?? ;(

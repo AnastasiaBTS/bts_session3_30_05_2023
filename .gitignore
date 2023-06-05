@@ -1,0 +1,2 @@
+node_modules
+//7000 changes -> .gitignore node_modules to ignore all files in node_modules
